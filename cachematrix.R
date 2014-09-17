@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Returns an object representing a matrix and its inverse
 ## functions:
 ##    $set(matrix()) - caches the given matrix
